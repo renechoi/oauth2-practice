@@ -13,5 +13,4 @@ public abstract class OAuth2Provider {
 
 	public abstract ClientRegistration getClientRegistration();
 
-	// getters and setters
 }
